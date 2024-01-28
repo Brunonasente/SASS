@@ -1,0 +1,6 @@
+@use "config/cores";
+
+.menu li a {
+    color: cores.$Cor-Menu;
+    text-decoration: none;
+}

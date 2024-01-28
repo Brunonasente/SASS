@@ -1,0 +1,11 @@
+@use "config/cores";
+
+
+.produtos-button {
+    background-color: cores.$Cor-de-fundo-button;
+    color: cores.$Color-bttn;
+}
+
+.product-button:hover {
+    background-color: cores.$Color-hover;
+}
